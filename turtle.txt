@@ -1,1 +1,8 @@
 this is my text file with some text in it. Isn't it vewwy, vewwy, pretty?
+
+
+Why are my changes not saving when git tries to update this?
+
+OK, it is saving them now. Not sure what I was doing wrong before. It's magic!
+
+More new stuff! Features!
