@@ -1,4 +1,4 @@
-this is my text file with some text in it. Isn't it vewwy, vewwy, pretty?
+I have changed the first line. this is my text file with some text in it. Isn't it vewwy, vewwy, pretty?
 
 
 Why are my changes not saving when git tries to update this?
